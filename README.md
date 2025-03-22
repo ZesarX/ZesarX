@@ -93,7 +93,7 @@ Hi, I'm Cesar, and I'm currently studying computer engineering. I'm a technology
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/ZesarX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Cesar_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>   
-<a href="cesitar@gmail.com" ><img align="center" alt="Cesar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
+<a href="cesitar@gmail.com" ><img align="center" alt="Cesar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="HridoyHazard" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/Cesardbz/" target="_blank"><img align="center" alt="Cesar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
 
 <br>
