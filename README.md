@@ -7,7 +7,7 @@ Hi, I'm Cesar, and I'm currently studying computer engineering. I'm a technology
 - 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🤔 I’m looking for help with Mern **
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
+- 🥅 2026 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
