@@ -11,7 +11,7 @@ Hi, I'm Cesar, and I'm currently studying computer engineering. I'm a technology
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)]
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
