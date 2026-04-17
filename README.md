@@ -1,7 +1,7 @@
-# <h1 align="center">Hola 👋, soy Cesar</h1>
+# <h1 align="center">Hola 👋, soy Zesarx</h1>
 
 <p align="center">
-  <img src="banner.png" alt="Cesar Banner" width="100%">
+  <img src="logo.png" alt="Cesar Banner" width="100%" >
 </p>
 
 <p align="center">
