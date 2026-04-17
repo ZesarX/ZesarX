@@ -19,7 +19,7 @@ Hola, soy **Cesar**, estudiante de ingeniería de sistemas. Soy un entusiasta de
 - 🌱 **Actualmente aprendiendo:** MERN Stack (MongoDB, Express, React, Node.js) y Rest APIs.
 - 👯 **Buscando colaborar en:** Proyectos relacionados con desarrollo web y software de código abierto.
 - 🥅 **Meta para 2026:** Ser un desarrollador senior proeficiente en el Stack MERN.
-- ⚡ **Dato curioso:** Me apasiona la fotografía y disfruto mucho de los videojuegos en mi tiempo libre.
+- ⚡ **Dato curioso:** Me apasiona los deportes extremo y disfruto mucho de los videojuegos y peliculas en mi tiempo libre.
 
 ---
 
