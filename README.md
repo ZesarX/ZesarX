@@ -27,9 +27,15 @@ Hola, soy **Zesarx**, estudiante de ingeniería de ciberseguridad. Soy un entusi
 ### 📊 Mis Estadísticas | My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZesarX&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&align=center" alt="ZesarX GitHub stats" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=ZesarX&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true" 
+    alt="ZesarX GitHub stats" 
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZesarX&theme=great-gatsby&layout=compact&hide_border=true&align=center" alt="Top Langs" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZesarX&theme=great-gatsby&layout=compact&hide_border=true" 
+    alt="Top Langs" 
+  />
 </p>
 
 > **Nota:** El "Top Languages" es métrica de mis repositorios públicos y no necesariamente refleja mi nivel total de experiencia.
