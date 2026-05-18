@@ -12,9 +12,10 @@
 
 ### 🚀 Sobre Mí | About Me
 
-Hola, soy **Cesar**, estudiante de ingeniería de sistemas. Soy un entusiasta de la tecnología, apasionado por aprender nuevas herramientas y crear soluciones digitales. Me considero una persona autodidacta y siempre busco mejorar mis habilidades técnicas.
+Hola, soy **Cesar**, estudiante de ingeniería de ciberseguridad. Soy un entusiasta de la tecnología, apasionado por aprender nuevas herramientas y crear soluciones digitales. Me considero una persona autodidacta y siempre busco mejorar mis habilidades técnicas.
 
-*Hello, I'm **Cesar**, a computer engineering student. I'm a technology enthusiast, passionate about learning new tools and creating digital solutions. I consider myself a self-taught person, always looking to improve my technical skills.*
+
+*Hello, I'm **Cesar**, a engginer cibersecurity student. I'm a technology enthusiast, passionate about learning new tools and creating digital solutions. I consider myself a self-taught person, always looking to improve my technical skills.*
 
 - 🌱 **Actualmente aprendiendo:** MERN Stack (MongoDB, Express, React, Node.js) y Rest APIs.
 - 👯 **Buscando colaborar en:** Proyectos relacionados con desarrollo web y software de código abierto.
